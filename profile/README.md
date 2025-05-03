@@ -4,14 +4,6 @@ Welcome to the official GitHub organization for **Curiosity Weekends**. This rep
 
 ---
 
-## 📄 Reference Document
-
-**Title:** _Project Vision, Mission, History_  
-📎 [View on Google Docs](https://docs.google.com/document/d/1AQBR9b4u64WEr12wuGIAKOziD6_G0VblnG8KJYWsKY4/edit?tab=t.0#heading=h.t2uirk11xwo4)  
-This document outlines the foundational purpose and evolution of the Curiosity Weekends initiative.
-
----
-
 ## 🎯 Vision
 
 To cultivate a culture where excellence is achieved through consistent practice and peer-driven growth.  
@@ -86,6 +78,14 @@ To suggest changes, raise questions, or discuss ideas:
 
 **Linnk Academy**, ASAP Community Park,  
 Vidyanagar, Kasaragod
+
+---
+
+## 📄 Reference Document
+
+**Title:** _Project Vision, Mission, History_  
+📎 [View on Google Docs](https://docs.google.com/document/d/1AQBR9b4u64WEr12wuGIAKOziD6_G0VblnG8KJYWsKY4/edit?tab=t.0#heading=h.t2uirk11xwo4)  
+This document outlines the foundational purpose and evolution of the Curiosity Weekends initiative.
 
 ---
 
