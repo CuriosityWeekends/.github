@@ -51,6 +51,32 @@ We’re united by one principle: *mastery isn't a moment—it's a habit.*
 
 ---
 
+## 🧪 Projects
+
+### 🌡️ TemPro – Temperature Monitoring Dashboard
+
+A lightweight web-based MQTT dashboard for live room temperature tracking. Built with:
+
+- HTML, CSS, JavaScript  
+- MQTT over WebSocket  
+- Chart.js for live data visualization
+
+🔗 [View TemPro on GitHub](https://github.com/CuriosityWeekends/TemPro)
+
+---
+
+### 🧾 EntryLogger – Modular Entry and Workday Logger
+
+A modular system for logging workspace entries, exits, and tasks. Integrated with Discord and Supabase.
+
+- Discord bot interface using slash commands  
+- Tracks workdays, entry logs, check-ins/outs, and task progress  
+- Supabase backend with real-time syncing and custom workflows
+
+🔗 [View EntryLogger on GitHub](https://github.com/hadinah/entrylogger)
+
+---
+
 ## 👋 Get Involved
 
 Interested in joining or collaborating?  
@@ -59,3 +85,6 @@ Start by reaching out or checking out our current projects and discussions.
 📎 [Project Vision, Mission, History (Google Doc)](https://docs.google.com/document/d/1AQBR9b4u64WEr12wuGIAKOziD6_G0VblnG8KJYWsKY4/edit?tab=t.0#heading=h.t2uirk11xwo4)
 
 ---
+
+*Document last updated: May 2025*
+
