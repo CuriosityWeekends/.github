@@ -94,7 +94,7 @@ Whether you're a student, developer, teacher, or just plain curious, here’s ho
   **Get in touch with us at:**  
   [someone@curiosityweekends.org](mailto:someone@curiosityweekends.org)
 
-Ready to make your weekend count? Let’s create, learn and grow together!
+Ready to make your weekend count? Let’s create, learn, and grow together!
 
 ---
 
