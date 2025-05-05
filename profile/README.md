@@ -79,22 +79,38 @@ A modular system for logging workspace entries, exits, and tasks. Integrated wit
 
 ## 👋 Get Involved
 
-Interested in joining or collaborating?  
-Start by reaching out or checking out our current projects and discussions.
+Curiosity Weekends thrives on collaboration—and we’d love to have you on board.
 
-📎 [Project Vision, Mission, History (Google Doc)](https://docs.google.com/document/d/1AQBR9b4u64WEr12wuGIAKOziD6_G0VblnG8KJYWsKY4/edit?tab=t.0#heading=h.t2uirk11xwo4)
+Whether you're a student, developer, teacher, or just plain curious, here’s how to jump in:
+
+- 💬 **Join our Discord** to meet the community and stay in sync:  
+  [discord.gg/dNanhuJ8hA](https://discord.gg/dNanhuJ8hA)
+- 🛠️ **Browse our GitHub** to contribute to live projects:  
+  [github.com/CuriosityWeekends](https://github.com/CuriosityWeekends)
+- 📍 **Drop by in person** at Linnk Academy during weekend sessions
+- 📞 **Call us** at:  
+  +91 88482 41358
+- ✍️ **Interested in mentoring, hosting, or collaborating?**  
+  **Get in touch with us at:**  
+  [someone@curiosityweekends.org](mailto:someone@curiosityweekends.org)
+
+Ready to make your weekend count? Let’s create, learn, and grow together!
 
 ---
 
 ## 📬 Contact
 
-- 🌐 Website: [curiosityweekends.org](https://curiosityweekends.org)  
-- 📧 Email: [someone@curiosityweekends.org](mailto:someone@curiosityweekends.org)  
-- 📞 Phone: +91 88482 41358  
-- 📍 Location: Linnk Academy, ASAP Community Park, Vidyanagar, Kasaragod, Kerala  
-- 💬 Discord: [Join our server](https://discord.gg/dNanhuJ8hA)  
-- 📺 YouTube: [@CuriosityWeekends](http://www.youtube.com/@CuriosityWeekends)  
-- 📸 Instagram: [@curiosity_weekends_](https://www.instagram.com/curiosity_weekends_/)
+- 🌐 **Website:** [curiosityweekends.org](https://curiosityweekends.org)
+- 📧 **Email:** [someone@curiosityweekends.org](mailto:someone@curiosityweekends.org)
+- 📞 **Phone:** +91 88482 41358
+- 📍 **Location:** Linnk Academy, ASAP Community Park, Vidyanagar, Kasaragod, Kerala
+- 📺 **YouTube:** [@CuriosityWeekends](http://www.youtube.com/@CuriosityWeekends)
+- 📸 **Instagram:** [@curiosity_weekends_](https://www.instagram.com/curiosity_weekends_)
+
+---
+
+## 🧾 Documents
+📎 [Project Vision, Mission, History (Google Doc)](https://docs.google.com/document/d/1AQBR9b4u64WEr12wuGIAKOziD6_G0VblnG8KJYWsKY4/edit?tab=t.0#heading=h.t2uirk11xwo4)
 
 ---
 
