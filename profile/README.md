@@ -36,7 +36,7 @@ We aim to:
 
 We currently operate from:  
 **Linnk Academy**, ASAP Community Park,  
-Vidyanagar, Kasaragod
+Vidyanagar, Kasaragod, Kerala
 
 ---
 
@@ -83,6 +83,18 @@ Interested in joining or collaborating?
 Start by reaching out or checking out our current projects and discussions.
 
 📎 [Project Vision, Mission, History (Google Doc)](https://docs.google.com/document/d/1AQBR9b4u64WEr12wuGIAKOziD6_G0VblnG8KJYWsKY4/edit?tab=t.0#heading=h.t2uirk11xwo4)
+
+---
+
+## 📬 Contact
+
+- 🌐 Website: [curiosityweekends.org](https://curiosityweekends.org)  
+- 📧 Email: [someone@curiosityweekends.org](mailto:someone@curiosityweekends.org)  
+- 📞 Phone: +91 88482 41358  
+- 📍 Location: Linnk Academy, ASAP Community Park, Vidyanagar, Kasaragod, Kerala  
+- 💬 Discord: [Join our server](https://discord.gg/dNanhuJ8hA)  
+- 📺 YouTube: [@CuriosityWeekends](http://www.youtube.com/@CuriosityWeekends)  
+- 📸 Instagram: [@curiosity_weekends_](https://www.instagram.com/curiosity_weekends_/)
 
 ---
 
