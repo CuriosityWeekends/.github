@@ -110,7 +110,7 @@ Ready to make your weekend count? Let’s create, learn, and grow together!
 ---
 ## 👁 See Us Live 
 
-- 🌐 [https://www.youtube.com/@curiosityweekends/live]
+- 🌐 https://www.youtube.com/@curiosityweekends/live
 
 
 ---
