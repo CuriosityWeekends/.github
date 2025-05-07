@@ -108,7 +108,7 @@ Ready to make your weekend count? Let’s create, learn, and grow together!
 - 📸 **Instagram:** [@curiosity_weekends_](https://www.instagram.com/curiosity_weekends_)
 
 ---
-## 📬 See Us Live 
+## 👁 See Us Live 
 
 - 🌐 [https://www.youtube.com/@curiosityweekends/live]
 
