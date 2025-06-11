@@ -63,7 +63,7 @@ A lightweight web-based MQTT dashboard for live room temperature tracking. Built
 
 🔗 [View TemPro on GitHub](https://github.com/CuriosityWeekends/TemPro)
 
-🧪 [Try the Live Demo](http://dev.streakon.net/tempro)
+🧪 [Try the Live Demo](http://tempro.curiosityweekends.org)
 
 ---
 
