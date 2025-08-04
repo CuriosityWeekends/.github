@@ -86,7 +86,8 @@ Curiosity Weekends thrives on collaboration—and we’d love to have you on boa
 Whether you're a student, developer, teacher, or just plain curious, here’s how to jump in:
 
 - 💬 **Join our Discord** to meet the community and stay in sync:  
-  [discord.gg/dNanhuJ8hA](https://discord.gg/dNanhuJ8hA)
+  [https://discord.gg/CTut7WJ3]
+  
 - 🛠️ **Browse our GitHub** to contribute to live projects:  
   [github.com/CuriosityWeekends](https://github.com/CuriosityWeekends)
 - 📍 **Drop by in person** at Linnk Academy during weekend sessions
